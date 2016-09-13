@@ -1,0 +1,30 @@
+
+.intro-header {
+    padding-top: 50px; /* If you're making other pages, make sure there is 50px of padding to make sure the navbar doesn't overlap content! */
+    padding-bottom: 50px;
+    text-align: center;
+    color: #f8f8f8;
+    background: url(../img/homeslider.jpg) no-repeat center center;
+    background-size: cover;
+}
+.content-section-one {
+    padding: 50px;
+    background-color: #f8f8f8;
+}
+
+.content-section-two {
+    padding: 50px;
+}
+
+.intro-header-message {
+    position: relative;
+    padding-top: 20%;
+    padding-bottom: 20%;
+}
+footer {
+    padding: 50px 0;
+    background-color: #f8f8f8;
+}
+span.glyphicon-cloud {
+    font-size: 20em;
+}
